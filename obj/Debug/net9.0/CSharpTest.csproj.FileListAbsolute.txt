@@ -1,0 +1,14 @@
+C:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\CSharpTest\bin\Debug\net9.0\CSharpTest.exe
+C:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\CSharpTest\bin\Debug\net9.0\CSharpTest.deps.json
+C:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\CSharpTest\bin\Debug\net9.0\CSharpTest.runtimeconfig.json
+C:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\CSharpTest\bin\Debug\net9.0\CSharpTest.dll
+C:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\CSharpTest\bin\Debug\net9.0\CSharpTest.pdb
+C:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\CSharpTest\obj\Debug\net9.0\CSharpTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\CSharpTest\obj\Debug\net9.0\CSharpTest.AssemblyInfoInputs.cache
+C:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\CSharpTest\obj\Debug\net9.0\CSharpTest.AssemblyInfo.cs
+C:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\CSharpTest\obj\Debug\net9.0\CSharpTest.csproj.CoreCompileInputs.cache
+C:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\CSharpTest\obj\Debug\net9.0\CSharpTest.dll
+C:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\CSharpTest\obj\Debug\net9.0\refint\CSharpTest.dll
+C:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\CSharpTest\obj\Debug\net9.0\CSharpTest.pdb
+C:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\CSharpTest\obj\Debug\net9.0\CSharpTest.genruntimeconfig.cache
+C:\Users\micah\OneDrive\Desktop\BootCamp\RandomAaaaShiz\repos\CSharpTest\obj\Debug\net9.0\ref\CSharpTest.dll
